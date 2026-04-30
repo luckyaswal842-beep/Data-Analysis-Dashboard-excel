@@ -15,4 +15,13 @@ The Vrinda Store wants to create an annual sales report for 2022 . So that , the
 - Highest selling category?
 - Percentage of total orders delivered
 
- 
+-Dashboard Interaction <a href="https://github.com/luckyaswal842-beep/Data-Analysis-Dashboard-excel/blob/main/Screenshot%202026-04-27%20125337.png">View Dashboard</a>
+
+## Process
+- Verify data for any mission values and anomalies,and sort out the same.
+- Made sure data consist and clean with respect to data type , data format and values used.
+- Created pivot table according to the questions asked.
+- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
+## Dashboard
+
